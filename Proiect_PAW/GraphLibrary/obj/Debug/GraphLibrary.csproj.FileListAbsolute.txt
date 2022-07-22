@@ -1,0 +1,15 @@
+C:\Users\F\source\repos\Proiect_PAW\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\Users\F\source\repos\Proiect_PAW\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\Users\F\source\repos\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.GraphControls.resources
+C:\Users\F\source\repos\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.csproj.GenerateResource.cache
+C:\Users\F\source\repos\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.csproj.CoreCompileInputs.cache
+C:\Users\F\source\repos\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\Users\F\source\repos\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.pdb
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.csproj.AssemblyReference.cache
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.GraphControls.resources
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.csproj.GenerateResource.cache
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.csproj.CoreCompileInputs.cache
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\Users\F\Desktop\Proiect_PAW\GraphLibrary\obj\Debug\GraphLibrary.pdb

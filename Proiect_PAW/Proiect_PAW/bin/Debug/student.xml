@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nume>Popa </Nume>
+  <Prenume>Andrada</Prenume>
+  <TipFrecventa>CF</TipFrecventa>
+  <An>1</An>
+  <Profil>Informatica Economica</Profil>
+  <Optionale>MRAI</Optionale>
+</Student>

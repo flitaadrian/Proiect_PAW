@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect_PAW", "Proiect_PAW\Proiect_PAW.csproj", "{AC16BFB2-6BFC-48BB-A954-3894E93030B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLibrary", "GraphLibrary\GraphLibrary.csproj", "{9B8BD3DC-EEFB-40D6-8886-FBE43BBE1774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC16BFB2-6BFC-48BB-A954-3894E93030B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC16BFB2-6BFC-48BB-A954-3894E93030B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC16BFB2-6BFC-48BB-A954-3894E93030B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC16BFB2-6BFC-48BB-A954-3894E93030B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8BD3DC-EEFB-40D6-8886-FBE43BBE1774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8BD3DC-EEFB-40D6-8886-FBE43BBE1774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8BD3DC-EEFB-40D6-8886-FBE43BBE1774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8BD3DC-EEFB-40D6-8886-FBE43BBE1774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF66E56-1BDB-411C-9DE5-489FAEF867E5}
+	EndGlobalSection
+EndGlobal
